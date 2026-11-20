@@ -40,7 +40,7 @@ Create three Ubuntu EC2 instances.
 
 ## 2. Configure Security Group
 
-For learning purposes, create one security group and attach it to all three EC2 instances.
+For learning purposes, From master node security group allow all traffic
 
 Configure the following inbound rules:
 
